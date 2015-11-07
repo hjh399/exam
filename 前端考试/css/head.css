@@ -1,0 +1,22 @@
+.t1{
+	height: 36px;
+	background-color: #f3f3f3;
+	color: #333333;     
+	font-size: 12px;                                                                                                                                                                                                                                                                                                                                                                                                                                  
+}
+.t1-l{
+	width: 475px;
+	float: left;
+	margin: 10px 670px 0px 206px;
+}
+.t1 a{
+	text-decoration:none;
+	color: #39a030;
+}
+.t1 a:hover{
+	text-decoration:underline;
+}
+.t1-r{
+	margin-top: 10px;
+	float: left;
+}
